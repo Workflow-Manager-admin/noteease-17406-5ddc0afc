@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 4, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "fc8109e486837acdab5f6bb9079c32b1", "format-version": 4, "code-base-name": "default", "filename": "note_app_frontend/app.vue", "knowledge_revision": 7}
